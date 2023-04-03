@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panagiotis Papantonis</h1>
 <h3 align="center">A passionate web developer from Greece</h3>
-<img align="right" alt="coding gif" width="400" scr="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47172esdjgg80o9945vl0emf2h2bqj1b4qnx2l7lin&rid=giphy.gif&ct=g">
+<img align="right" alt="coding gif" width="400" scr="[https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifcid=ecf05e47172esdjgg80o9945vl0emf2h2bqj1b4qnx2l7lin&rid=giphy.gif&ct=g](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmNjgwM2I3YTY0M2FlMDA5NWMwZWI5MzE1MjBmZTI1MjlhYzA5YyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotispapantonis&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotispapantonis" /> </p>
 
 - 🔭 I’m currently working on [My-Portfolio](https://github.com/PanagiotisPapantonis/My-Portfolio-)
