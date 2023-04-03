@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Panagiotis Papantonis</h1>
 <h3 align="center">A passionate web developer from Greece</h3>
 <img align="right" alt="coding gif" width="400" scr="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotispapantonis&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotispapantonis" /> </p>
 
 - 🔭 I’m currently working on [My-Portfolio](https://github.com/PanagiotisPapantonis/My-Portfolio-)
 
