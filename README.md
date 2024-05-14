@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **HTML/CSS**
+- 🌱 I’m currently learning **Js & React**
 
 - 📫 How to reach me **panagiotispapantonis1@gmail.com**
 
