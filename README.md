@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panagiotis Papantonis</h1>
 
-- 🔭 I’m currently working on [Weather_APP](https://github.com/PanagiotisPapantonis/Weather_APP)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **HTML/CSS**
 
